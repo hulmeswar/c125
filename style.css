@@ -1,0 +1,41 @@
+body {
+    font-family: 'Are You Serious', cursive;
+font-family: 'Cinzel Decorative', cursive;
+background: rgb(78,146,187);
+background: linear-gradient(90deg, rgba(78,146,187,0.2050070028011205) 0%, rgba(2,141,251,0.3842787114845938) 0%, rgba(72,151,192,1) 15%, rgba(71,152,193,1) 22%, rgba(68,154,195,1) 57%, rgba(0,212,255,1) 82%);
+}
+
+
+
+
+
+
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note
+{
+    font-size: 13px;
+    color:black;
+    
+
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color:purple;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white ;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}
